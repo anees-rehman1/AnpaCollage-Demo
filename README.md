@@ -1,2 +1,4 @@
 # AnpaCollage-Demo
-For learning git/github in complete details
+It is my first Git Repository 
+<b>
+Author Shadow
