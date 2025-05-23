@@ -1,4 +1,4 @@
 # AnpaCollage-Demo
 It is my first Git Repository 
 <b>
-Author Shadow
+Author Shadow ninja
